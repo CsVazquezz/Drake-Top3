@@ -18,7 +18,7 @@ const albums = [
   },
   {
     cover: "images/IYRTITL.png",
-    title: "If youre reading this is too late",
+    title: "If Youre Reading This Is Too Late",
     description: `If You’re Reading This It’s Too Late is Drake’s fourth mixtape. It was released unexpectedly on February 13, 2015, the six-year anniversary of Drake’s breakout third mixtape, So Far Gone.
 
         Although it’s not the first, IYRTITL is one of the most prominent ‘commercial mixtapes.’ 
