@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #000000;
+  color: white;
+}
+
+.container {
+  padding: 20px;
+  margin: 80px auto 0 auto;
+  width: 400px;
+  background-color: #121212;
+  border-radius: 10px;
+}
+
+.album-container {
+  margin: 20px 0;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  background-color: #eee;
+  color: black;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #b4b4b8;
+}
